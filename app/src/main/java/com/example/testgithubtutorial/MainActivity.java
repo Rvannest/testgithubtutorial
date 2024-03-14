@@ -21,6 +21,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*test test test commit*/
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
