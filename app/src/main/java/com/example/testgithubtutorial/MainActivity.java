@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     /*test test test commit*/
 //    another test, from clone to new commit
 //    third test cloning again
+
+//    test branch push
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
